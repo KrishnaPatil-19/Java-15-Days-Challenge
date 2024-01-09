@@ -14,5 +14,16 @@ public class Main {
 		do {
 			System.out.println("Do-While loop ran");
 		} while (wLoop);
+		/* O/P :
+			Loops demo :
+			For loop :
+			1
+			2
+			3
+			4
+			5
+
+			Do-While loop ran
+		*/
 	}
 }
